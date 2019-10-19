@@ -1,4 +1,4 @@
-Android device tree for the Xiaomi Mi 4i (ferrari)
+Android device tree for the Xiaomi Mi 4i (ferrari) ***WIP***
 ======================================================
 
 Spec Sheet
